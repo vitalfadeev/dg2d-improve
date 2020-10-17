@@ -1,7 +1,7 @@
 - Intel B970
 - X86_64
 - Windows 10
-- Intel HD Graphocs
+- Intel HD Graphics
 - ldc2-1.23.0-windows-x64
 
 ![](dg-1.png)
